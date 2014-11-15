@@ -1,4 +1,4 @@
 MyProject
 =========
 
-test project
+mdp project
